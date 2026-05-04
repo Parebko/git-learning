@@ -1,2 +1,1 @@
-print(Hello, QA)
-broken code
+print(Hello from Test branch)
